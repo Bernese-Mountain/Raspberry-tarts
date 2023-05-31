@@ -1,6 +1,6 @@
 import { App } from "vue";
-import SFCButton from "@/components/SFCButton.vue";
-import JSXButton from "@/components/JSXButton";
+import SFCButton from "./components/SFCButton.vue";
+import JSXButton from "./components/JSXButton";
 
 // 导出单独组件
 export { SFCButton, JSXButton };

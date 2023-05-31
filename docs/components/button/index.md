@@ -1,4 +1,4 @@
-# Button 按钮
+<!-- # Button 按钮
 
 常用操作按钮
 
@@ -64,4 +64,4 @@
     <SButton round plain icon="search">搜索</SButton>
   </div>
 </template>
-```
+``` -->
